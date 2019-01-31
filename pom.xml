@@ -3,7 +3,7 @@
 
   <groupId>it.marcoguarini.examples</groupId>
   <artifactId>mavenproject1</artifactId>
-  <version>1.2.3-SNAPSHOT</version>
+  <version>1.2.3</version>
   <packaging>war</packaging>
 
   <name>mavenproject1</name>
